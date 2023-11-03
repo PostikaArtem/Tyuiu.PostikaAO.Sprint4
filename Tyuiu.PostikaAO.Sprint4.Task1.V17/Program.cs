@@ -31,7 +31,7 @@ namespace Tyuiu.PostikaAO.Sprint4.Task1.V17
             Console.WriteLine("***************************************************************************");
 
             int len;
-            Console.WriteLine("Введите количество элементотв массива:  ");
+            Console.WriteLine("Введите количество элементов массива:  ");
             len = Convert.ToInt32(Console.ReadLine());
 
             int[] numsArray = new int[len];
